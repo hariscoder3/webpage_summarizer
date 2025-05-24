@@ -54,7 +54,7 @@ url = "https://linkedin.com"
 Run the script:
 
 ```bash
-python your_script_name.py
+python summarizer.py
 ```
 
 The summary will be printed in markdown format in the console.
